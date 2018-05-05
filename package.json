@@ -1,0 +1,16 @@
+{
+  "name": "algorithms",
+  "version": "1.0.0",
+  "description": "Implementation of common algorithms and algorithmic tasks",
+  "main": "index.js",
+  "repository": "git@github.com:xineman/algorithms.git",
+  "author": "xineman <uragupalo@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.1.1"
+  }
+}
